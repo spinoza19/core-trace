@@ -1,4 +1,0 @@
-# core-trace
-Commit 4
-Date: 2024-08-03T05:00:52Z
-Refactor helpers
