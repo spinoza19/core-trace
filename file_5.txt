@@ -1,4 +1,0 @@
-# core-trace
-Commit 6
-Date: 2025-04-11T16:22:55Z
-Add unit tests
