@@ -1,4 +1,0 @@
-# core-trace
-Commit 7
-Date: 2025-05-10T07:48:47Z
-Improve error handling
